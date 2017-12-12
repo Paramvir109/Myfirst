@@ -4,4 +4,6 @@ I study in DTU
 I'm doing btech.
 
 Text for merging
-merge conflict 2
+
+merge conflict final
+
